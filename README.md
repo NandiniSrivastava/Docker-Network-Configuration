@@ -93,5 +93,4 @@ This command will format and display the container information associated with `
 - Replace `<container_id>` with the actual container ID retrieved using `docker ps`.
 - If network connectivity issues arise, check firewall settings and ensure Docker's networking is configured correctly.
 
-Happy Networking! 🚀
 
